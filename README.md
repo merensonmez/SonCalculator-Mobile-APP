@@ -1,9 +1,9 @@
-SonCalculator - Güçlü Hesap Makinesi Uygulaması
+## SonCalculator - Güçlü Hesap Makinesi Uygulaması
 
 SonCalculator, kullanıcı dostu arayüzü ve güçlü hesaplama yetenekleriyle matematiksel hesaplamalarınızı kolay ve hızlı bir şekilde yapmanıza olanak tanır. Basit aritmetik işlemlerden karmaşık mühendislik hesaplamalarına kadar geniş bir yelpazede işlev sunan SonCalculator, ihtiyaçlarınıza uygun bir hesap makinesi uygulamasıdır. 
 İNDİRMEK İÇİN = https://drive.google.com/file/d/1g6ap2gu0aLz6DTy5aq-9WCe05osnD3nN/view?usp=sharing
 
-Öne Çıkan Özellikler:
+## Öne Çıkan Özellikler:
 
 Kullanıcı Dostu Arayüz: Basit ve anlaşılır arayüzü ile herkesin kolayca kullanabileceği bir hesap makinesi.
 Gelişmiş Hesaplama: Trigonometri, logaritma ve üstel fonksiyonlar dahil olmak üzere birçok gelişmiş matematiksel fonksiyonu destekler.
@@ -13,19 +13,19 @@ Birimi Dönüştür: Farklı birimler arasında dönüştürme işlemlerini kola
 Kişiselleştirilebilir Tema: Farklı tema seçenekleri ile uygulamanızı istediğiniz gibi kişiselleştirin.
 Kullanım Alanları:
 
-Öğrenciler için ödev ve sınav hazırlığı
+## Öğrenciler için ödev ve sınav hazırlığı
 Mühendisler için karmaşık hesaplamalar
 Günlük hayatınızda basit hesaplamalar
 SonCalculator ile matematiksel hesaplamalarınızı daha verimli ve keyifli hale getirin!
 
-İndirin ve Hesaplamalarınızı Kolaylaştırın!
+## İndirin ve Hesaplamalarınızı Kolaylaştırın!
 
 English
 
-SonCalculator - Powerful Calculator App
+## SonCalculator - Powerful Calculator App
 SonCalculator allows you to perform your mathematical calculations easily and quickly with its user-friendly interface and powerful calculation capabilities. From simple arithmetic operations to complex engineering calculations, SonCalculator is a calculator app that suits your needs.
 TO DOWNLOAD = https://drive.google.com/file/d/1g6ap2gu0aLz6DTy5aq-9WCe05osnD3nN/view?usp=sharing
-Highlights:
+## Highlights:
 
 User-Friendly Interface: A simple and intuitive interface that anyone can use easily.
 Advanced Calculations: Supports many advanced mathematical functions, including trigonometry, logarithms, and exponential functions.
@@ -34,7 +34,7 @@ History Records: Save your previous calculations and review them when needed.
 Unit Converter: Easily convert between different units.
 Customizable Theme: Customize your app with various theme options.
 
-Use Cases:
+## Use Cases:
 
 Students for homework and exam preparation
 Engineers for complex calculations
