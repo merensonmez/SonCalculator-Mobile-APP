@@ -19,9 +19,9 @@ SonCalculator ile matematiksel hesaplamalarınızı daha verimli ve keyifli hale
 
 İndirin ve Hesaplamalarınızı Kolaylaştırın!
 
-##English
-SonCalculator - Powerful Calculator App
+English
 
+SonCalculator - Powerful Calculator App
 SonCalculator allows you to perform your mathematical calculations easily and quickly with its user-friendly interface and powerful calculation capabilities. From simple arithmetic operations to complex engineering calculations, SonCalculator is a calculator app that suits your needs.
 
 Highlights:
