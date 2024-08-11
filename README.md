@@ -1,6 +1,7 @@
 SonCalculator - Güçlü Hesap Makinesi Uygulaması
 
-SonCalculator, kullanıcı dostu arayüzü ve güçlü hesaplama yetenekleriyle matematiksel hesaplamalarınızı kolay ve hızlı bir şekilde yapmanıza olanak tanır. Basit aritmetik işlemlerden karmaşık mühendislik hesaplamalarına kadar geniş bir yelpazede işlev sunan SonCalculator, ihtiyaçlarınıza uygun bir hesap makinesi uygulamasıdır.
+SonCalculator, kullanıcı dostu arayüzü ve güçlü hesaplama yetenekleriyle matematiksel hesaplamalarınızı kolay ve hızlı bir şekilde yapmanıza olanak tanır. Basit aritmetik işlemlerden karmaşık mühendislik hesaplamalarına kadar geniş bir yelpazede işlev sunan SonCalculator, ihtiyaçlarınıza uygun bir hesap makinesi uygulamasıdır. 
+İNDİRMEK İÇİN = https://drive.google.com/file/d/1g6ap2gu0aLz6DTy5aq-9WCe05osnD3nN/view?usp=sharing
 
 Öne Çıkan Özellikler:
 
@@ -23,7 +24,7 @@ English
 
 SonCalculator - Powerful Calculator App
 SonCalculator allows you to perform your mathematical calculations easily and quickly with its user-friendly interface and powerful calculation capabilities. From simple arithmetic operations to complex engineering calculations, SonCalculator is a calculator app that suits your needs.
-
+TO DOWNLOAD = https://drive.google.com/file/d/1g6ap2gu0aLz6DTy5aq-9WCe05osnD3nN/view?usp=sharing
 Highlights:
 
 User-Friendly Interface: A simple and intuitive interface that anyone can use easily.
